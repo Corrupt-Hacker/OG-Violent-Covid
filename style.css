@@ -1,0 +1,96 @@
+body {
+    background-color: aqua;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 25px;
+}
+.space {
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+    text-align: center;
+    border-radius: 50px;
+    height: 600px;
+    
+}
+.qpk {
+    
+    height: 50px;
+    width: 120px;
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+    border-radius: 50px;
+    border: 3px dashed rgb(33, 133, 130);
+}
+p {
+    font-size: x-large;
+    font-weight: bolder;
+}
+.message {
+    font-size: 20px;
+}
+h1 {
+    font-size: 30px;
+}
+img {
+    height: 200px;
+    width: 400px;
+    position: absolute;
+    top: 15%;
+    left: 37%;
+    
+}
+.sites {
+    position: absolute;
+    left: 15%;
+    background-color: rgb(237, 240, 33);
+    border-radius: 30px;
+    top: 45%;
+}
+.bottomSect {
+    position: relative;
+    top: 75%;
+    text-align: center;
+}
+.insult {
+    position: absolute;
+    left: 75%;
+    top: 20%;
+    height: 50px;
+    width: 300px;
+    border-radius: 30px;
+    background-color: greenyellow;
+}
+.currentNews {
+    height: 50px;
+    width: 300px;
+    border-radius: 30px;
+    background-color: greenyellow;
+    position: absolute;
+    top: 7%;
+    right: 41%;
+
+
+}
+.complement {
+    position: absolute;
+    left: 10%;
+    top: 20%;
+    height: 50px;
+    width: 300px;
+    border-radius: 30px;
+    background-color: greenyellow;
+}
+
+.qp {
+    background-color: cadetblue;
+    border-radius: 30px;
+    position: absolute;
+    right: 5%;
+    top: 45%
+}
+.unblocker {
+    height: 40px;
+    width: 300px;
+    border-radius: 15px;
+    background-color: burlywood;
+}
