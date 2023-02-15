@@ -5,17 +5,22 @@ body {
     margin-top: 25px;
 }
 .space {
-    background: rgb(131,58,180);
-    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+    background: rgb(9,121,35);
+    background: radial-gradient(circle, rgba(9,121,35,1) 6%, rgba(0,212,255,1) 39%, rgba(183,0,255,1) 75%);
     text-align: center;
     border-radius: 50px;
-    height: 600px;
+    height: 650px;
     
+}
+.complement, .insult, .currentNews {
+    font-weight: bolder;
+    background: rgb(9,9,121);
+    background: linear-gradient(180deg, rgba(9,9,121,1) 13%, rgba(0,212,255,1) 100%);
 }
 .qpk {
     
     height: 50px;
-    width: 120px;
+    width: 150px;
     background: rgb(34,193,195);
     background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
     border-radius: 50px;
@@ -24,27 +29,37 @@ body {
 p {
     font-size: x-large;
     font-weight: bolder;
+    background: white;
+    color: rgb(30, 39, 11);
+    
 }
-.message {
-    font-size: 20px;
+a {
+    font-weight: bolder;
+}
+.theSpecialLink {
+    font-size: x-large;
+    background-color: white;
 }
 h1 {
     font-size: 30px;
 }
 img {
     height: 200px;
-    width: 400px;
+    width: 250px;
     position: absolute;
     top: 15%;
-    left: 37%;
+    left: 42%;
     
 }
 .sites {
+    text-align: center;
+    width: 400px;
     position: absolute;
-    left: 15%;
-    background-color: rgb(237, 240, 33);
+    left: 1%;
+    background: rgb(9,121,35);
+    background: linear-gradient(45deg, rgba(9,121,35,1) 6%, rgba(0,212,255,1) 31%, rgba(183,0,255,1) 75%);;
     border-radius: 30px;
-    top: 45%;
+    top: 50%;
 }
 .bottomSect {
     position: relative;
@@ -82,11 +97,14 @@ img {
 }
 
 .qp {
-    background-color: cadetblue;
+    background: rgb(121,44,9);
+    background: linear-gradient(45deg, rgba(121,44,9,1) 6%, rgba(0,255,33,1) 53%, rgba(0,255,239,1) 95%);
     border-radius: 30px;
+    border: 2px solid black;
     position: absolute;
-    right: 5%;
-    top: 45%
+    right: 1%;
+    top: 50%;
+    width: 1000px;
 }
 .unblocker {
     height: 40px;
