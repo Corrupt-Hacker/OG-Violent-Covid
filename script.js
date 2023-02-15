@@ -9,20 +9,21 @@
      alert('Nobody Looks Worse Than YOU!!!');
      alert('Everybody Hates You And Only You');
      alert('I Dont Know Anybody I Hate More That You');
-     alert('If Your An Eagles Fan, I Think Your Best Bet Is To Hop In The Dumpster And Be Taken To The Nearest Land Fill Where You Belong');
+     alert('I Think Your Best Bet Is To Hop In The Dumpster And Be Taken To The Nearest Land Fill Where You Belong');
+     alert('Make Sure To Fill Out The Form At The Bottom At The Page To Stay Notifyed');
  }
  function complementWd() {
      alert("Your Breath Doesn't stink today");
      alert("You BUZZCUT Looks Better Than Ever");
-     alert('You Dont Have That Big Of An Ego. Enless Your Cade.');
-     alert('You Have No Friends For Good Reason');
-     alert('Your The Best Person Ever (But Only If You Are A Chiefs Fan)')
+     alert("You Dont Have That Big Of An Ego. (I Can't Say Enless Your Cade Anymore Because Cade Now Uses My Site)");
+     alert('You Have Tons Of Friends Because Your The Best');
+     alert('Make Sure To Fill Out The Form At The Bottom At The Page To Stay Notifyed');
  }
  function newsWd() {
-     alert('No Snitching');
-     alert('No Giving The Site Link To Anybody Without My Concent');
-     alert('No Letting The Teacher See And Report My Site');
-     alert('The Chief One The Super Bowl. All Eagals Fans Must Be Taken Out With The Trash');
+    alert('Update 3.0 Will Occure Before March!');
+    alert('What Do You Call A Fish With No Eyes? A Fsh');
+    alert('Get It, I Know You Laughed And You Can"t Denie It');
+    alert('Make Sure To Fill Out The Form At The Bottom At The Page To Stay Notifyed');
  }
 
  //Calling All Functions & Event Listeners
