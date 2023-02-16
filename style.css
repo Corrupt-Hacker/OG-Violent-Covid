@@ -56,10 +56,10 @@ img {
     width: 400px;
     position: absolute;
     left: 1%;
+    top: 37%;
     background: rgb(9,121,35);
     background: linear-gradient(45deg, rgba(9,121,35,1) 6%, rgba(0,212,255,1) 31%, rgba(183,0,255,1) 75%);;
     border-radius: 30px;
-    top: 37%;
 }
 .bottomSect {
     position: relative;
