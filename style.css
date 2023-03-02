@@ -36,8 +36,8 @@ p {
 a {
     font-weight: bolder;
 }
-.theSpecialLink {
-    font-size: x-large;
+.links {
+    font-size: large;
     background-color: white;
 }
 h1 {
@@ -73,13 +73,11 @@ img {
     height: 50px;
     width: 300px;
     border-radius: 30px;
-    background-color: greenyellow;
 }
 .currentNews {
     height: 50px;
     width: 300px;
     border-radius: 30px;
-    background-color: greenyellow;
     position: absolute;
     top: 7%;
     right: 41%;
@@ -93,7 +91,6 @@ img {
     height: 50px;
     width: 300px;
     border-radius: 30px;
-    background-color: greenyellow;
 }
 
 .qp {
@@ -106,9 +103,10 @@ img {
     top: 55%;
     width: 1000px;
 }
-.unblocker {
-    height: 40px;
-    width: 300px;
+.discord {
+    height: 50px;
+    width: 400px;
     border-radius: 15px;
-    background-color: burlywood;
+    background: rgb(121,56,9);
+    background: linear-gradient(45deg, rgba(121,56,9,1) 14%, rgba(0,255,68,1) 38%, rgba(255,0,125,1) 76%);
 }
